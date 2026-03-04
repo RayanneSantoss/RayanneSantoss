@@ -5,13 +5,6 @@
 Me chamo Rayanne Santos, tenho 19 anos e sou natural de Alagoas. Concluí o ensino médio no IFAL, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou trabalhando como Trainne TI na empresa Yara Brasil Fertilizantes. Sou apaixonada por tecnologia e movida pelo aprendizado contínuo, buscando estar sempre atualizada sobre novas ferramentas, tendências e boas práticas do desenvolvimento de software.
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
     <a href="https://github.com/RayanneSantoss?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
