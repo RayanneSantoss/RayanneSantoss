@@ -53,8 +53,8 @@ Me chamo Rayanne Santos, tenho 19 anos e sou natural de Alagoas. Concluí o ensi
     align="left" 
     alt="Typescript" 
     title="Typescript"
-    width="40px" 
-    height="40px"
+    width="30px" 
+    height="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
